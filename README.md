@@ -1,7 +1,7 @@
 ## Olá! Sou o Thiago Stein
 
 - 💼 Trabalho na ThR Softwares como Analista de Suporte 
-- 📚 Cusando Gestão de Tecnologia da Informação na Fatec Tatui
+- 📚 Cursando Gestão de Tecnologia da Informação na Fatec Tatui
 - 👨‍💻 Atualmente estou me aprofundando no back-end
 
 <div style="display: inline_block"><br>
