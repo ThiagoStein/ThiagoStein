@@ -1,8 +1,8 @@
-## Olá! Sou o Thiago Stein
+## Olá! Sou Thiago Stein
 
-- 💼 Trabalho na ThR Softwares como Analista de Suporte 
-- 📚 Cursando Gestão de Tecnologia da Informação na Fatec Tatui
-- 👨‍💻 Atualmente estou me aprofundando no back-end
+- 💼 Trabalho na ThR Softwares como Analista de Testes 
+- 📚 Cursando Gestão da Tecnologia da Informação na Fatec Tatui
+- 👨‍💻 Atualmente me aprofundo no back-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
